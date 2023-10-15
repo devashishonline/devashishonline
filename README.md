@@ -1,4 +1,4 @@
-![logo]()
+![logo](https://github.com/devashishonline/devashishonline/blob/main/Purple%20Gradient%20Digital%20Marketing%20LinkedIn%20Banner.png)
 <h1 align="center">Hi 👋, I'm Devashish</h1>
 <h3 align="center">A passionate Android Developer from India</h3>
 
